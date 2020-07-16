@@ -3,6 +3,8 @@
 ## About This Project
 This project was made by our team during __New Hack, Who This__ by MLH, and it was awarded __second place overall!__ This progressive web app allows github users to match and then send scheme snippets back and forth to be played on the other user’s end.  
 
+Check out the Devpost [here](https://devpost.com/software/gitlove-awzh14)  
+
 ## How It Works
 This app was created using Ionic React, so to run it you can execute `ionic serve`.  
 
