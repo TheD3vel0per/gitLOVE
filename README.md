@@ -1,7 +1,7 @@
 # <img src="https://fontmeme.com/permalink/200711/d65f91e0d1c92fb0563431c4a2719577.png" className="img2" alt="fancy-fonts" /><img align="right" alt="gitLOVE" src="./public/assets/images/logo.png" width="150px" height="150px" style="border-radius: 25px;">
 
 ## About This Project
-This project was made by our team during __New Hack, Who This__ by MLH, and it was awarded __second place overall!__ This progressive web app allows gitHUB users to match and then send scheme snippets back and forth to be played on the other user’s end.  
+This project was made by our team during __New Hack, Who This__ by MLH, and it was awarded __second place overall!__ This progressive web app allows GitHub users to match and then send scheme snippets back and forth to be played on the other user’s end.  
 
 Check out the Devpost [here](https://devpost.com/software/gitlove-awzh14)  
 
